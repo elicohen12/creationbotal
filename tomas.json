@@ -1,0 +1,93 @@
+{
+    "first_name": "Tomas",
+    "last_name": "Lin",
+    "professional": "Full-Stack Developer | AI Developer",
+    "overview": "As Full Stack AI developer with expertise in machine learning, I specialize in developing autonomous systems and artificial intelligence.\nMy focus is on perception, decision-making, and control. I am fluent in Python and C++, and have worked on a variety of projects as a consultant, helping clients achieve their goals.\nEspecially dedicated in complex back-end development including web-scraping, OpenAI, Chatbot, streaming, webRTC, CI/CD, etc.\nHave high Problem-solving skills, good communication skills, fast learning ability.\nBe proficient in several programming languages and cloud, such as Google, AWS.",
+    "country": "Singapore",
+    "hourRate": "30",
+    "workXP": [
+        {
+            "company": "Kindred Agency",
+            "role": "Full Stack AI Developer",
+            "location": "Remote",
+            "country": "Singapore",
+            "description": [
+                "Designed and executed well-engineered, easy-to-maintain, reliable, and bug - free code for various company applications in collaboration with other AI engineers, data scientists, programmers, and software personnel.",
+                "Collaborated on the deployment and commercialization of machine learning algorithms for 3 projects including text recognition, face recognition and image classification.",
+                "Implemented text recognition from images using transformer Model and upgraded that project to recognize the handwritten text recognition.",
+                "Designed new face recognition model for masked faces and developed the project using that model.",
+                "Developed a Natural Language Processing System that increased customer satisfaction ratings by 30% on Integrate.ai Virtual assistant platform.",
+                "Redesigned the architecture of AI-driven chatbot, leading to a 40% reduction in response time."
+            ],
+            "start": "2020.4",
+            "end": "2023.7"
+        },
+        {
+            "company": "TenX",
+            "role": "Full-Stack Developer",
+            "location": "Singapore",
+            "country": "Singapore",
+            "description": [
+                "Developed a frontend for decentralized data storage using Next.js, Tailwind CSS and Turbo.",
+                "Developed a WordPress plugin for wallet integration.",
+                "Developed dashboard template project using tailwind css and next.js framework.",
+                "Developed frontend for betting site using React.",
+                "Developed backend for automatic generation telegram bot using telethon, appium, selenium and Google cloud.",
+                "Developed frontend demo project using react and tailwind css.",
+                "Master web scraping using puppeteer, selenium, beautifulsoup, scrapingbee and zenrows.",
+                "Developed telegram bot as friend in life, including voice feature."
+            ],
+            "start": "2017.8",
+            "end": "2020.4"
+        }
+    ],
+    "education": [
+        {
+            "university": "National University of Singapore",
+            "country": "Singapore",
+            "degree": "Bachelor of Computer Science (BCompSc)",
+            "field": "Computer science",
+            "start": "2014",
+            "end": "2017"
+        }
+    ],
+    "languages": {
+        "English": "Fluent"
+    },
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "ChatGPT",
+        "Next.js",
+        "API Integration",
+        "Tailwind CSS",
+        "CI/CD",
+        "Web Development",
+        "Python",
+        "Web3",
+        "Django",
+        "Web Scraping",
+        "AI Chatbot"
+    ],
+    "services": [
+        "Web Development",
+        "Mobile Development",
+        "Ecommerce Development",
+        "AI & Machine Learning",
+        "DevOps & Solution Architecture",
+        "Desktop Application Development",
+        "Game Design & Development",
+        "Web & Mobile Design",
+        "Blockchain, NFT & Cryptocurrency",
+        "Other - Software Development"
+    ],
+    "street": " Bukit Batok Central Link",
+    "zipcode": "658713",
+    "city": "Singapore",
+    "state": "Southwest",
+    "location": "Italy",
+    "phone": "6793 9315",
+    "avatar": "ai.jpg"
+}

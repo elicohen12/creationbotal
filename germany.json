@@ -1,0 +1,90 @@
+{
+    "first_name": "William",
+    "last_name": "Nehra",
+    "professional": "Full-Stack Developer | AI Developer",
+    "overview": "Skilled and experienced Full-stack software engineer:\n1) Full Stack Development skills\n  - React/Redux/Node.js/Vue.js/Python/Django/HTML/CSS/JavaScript/TypeScript, \n  - E-Commerce\n - have had the opportunity to coach other engineers at previous companies in both React.js and Node.js.\n\n2) Also have enough experience with AI technologies.\n  - websites integrated with chatbots such as ChatGPT, GPT-4.\n  - developed multiple chatbots and websites using GPT, Speech to Text, Text to Speech, and OCR.",
+    "country": "Germany",
+    "hourRate": "30",
+    "workXP": [
+        {
+            "company": "YUMEDA STUDIO",
+            "role": "Full-Stack AI Developer",
+            "location": "Weinheim",
+            "country": "Germany",
+            "description": [
+                "Designed and executed well-engineered, easy-to-maintain, reliable, and bug - free code for various company applications in collaboration with other AI engineers, data scientists, programmers, and software personnel.",
+				"Collaborated on the deployment and commercialization of machine learning algorithms for 3 projects including text recognition, face recognition and image classification.",
+				"Implemented text recognition from images using transformer Model and upgraded that project to recognize the handwritten text recognition.",
+				"Designed new face recognition model for masked faces and developed the project using that model.",
+				"Developed a Natural Language Processing System that increased customer satisfaction ratings by 30% on Integrate.ai Virtual assistant platform.",
+				"Redesigned the architecture of AI-driven chatbot, leading to a 40% reduction in response time."
+            ],
+            "start": "2021.4",
+            "end": "2023.7"
+        },
+        {
+            "company": "MAINMATTER",
+            "role": "Full-Stack Developer",
+            "location": "München",
+            "country": "Germany",
+            "description": [
+                "Developed a frontend for decentralized data storage using Next.js, Tailwind CSS and Turbo.",
+                "Developed dashboard template project using tailwind css and next.js framework.",
+                "Developed frontend for betting site using React.",
+                "Integrated several MERN stack frontend and backend",
+                "Developed frontend demo project using react and tailwind css.",
+                "Mastered web development tech like react, next.js, graphql."
+            ],
+            "start": "2019.7",
+            "end": "2021.4"
+        }
+    ],
+    "education": [
+        {
+            "university": "Technical University of Munich",
+            "country": "Germany",
+            "degree": "Bachelor of Computer Science (BCompSc)",
+            "field": "Computer science",
+            "start": "2014",
+            "end": "2017"
+        }
+    ],
+    "languages": {
+        "English": "Fluent"
+    },
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Next.js",
+        "ChatGPT",
+        "Tailwind CSS",
+        "GraphQL",
+        "Web Development",
+        "Python",
+        "Artificial Intelligence",
+        "API Integration",
+        "Machine Learning",
+        "HTML5"
+    ],
+    "services": [
+        "Web Development",
+        "Mobile Development",
+        "Ecommerce Development",
+        "AI & Machine Learning",
+        "Desktop Application Development",
+        "Game Design & Development",
+        "Web & Mobile Design",
+        "Blockchain, NFT & Cryptocurrency",
+        "Other - Software Development"
+    ],
+    "street": "Milchhofstraße 17",
+    "zipcode": "91320 ",
+    "city": "Munich",
+    "state": "BY",
+    "location": "Germany",
+    "phone": "17612678606",
+    "avatar": "germany.png"
+}

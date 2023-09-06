@@ -1,0 +1,96 @@
+{
+    "first_name": "Edmund",
+    "last_name": "Patterson",
+    "professional": "Full-Stack Developer | Blockchain Developer",
+    "overview": "Full Stack Developer with 6 years of experience in designing and building web and mobile applications.\nBlockchain Developer with 3 years of experience in smart contract and web3 development.\nEspecially dedicated in complex back-end development including web-scraping, OpenAI, Chatbot, streaming, webRTC, CI/CD, etc.\nHave high Problem-solving skills, good communication skills, fast learning ability.\nBe proficient in several programming languages and cloud, such as Google, AWS.",
+    "country": "Germany",
+    "hourRate": "30",
+    "workXP": [
+        {
+            "company": "Horizon State",
+            "role": "Full-Stack Blockchain Developer",
+            "location": "Remote",
+            "country": "Singapore",
+            "description": [
+                "Developed chess project using Angular and AWS lambda functions. Modify payment method to crypto one using blockchain.",
+                "Developed Trade Bot using blockchain.",
+                "Created and launched 4 decentralised ICO applications using Ethereum and ReactJS and Web3 modal for 3 cryptocurrency startups.",
+                "Worked with the team to implement a decentralised energy trading platform on the Ethereum blockchain using Solidity smart contracts and Golang, facilitating over $200,000 worth of trades.",
+                "Developed trading site that users share trading strategy and give them feedback using ChatGPT, OpenAI, React, and AWS.",
+                "Developed TRUE market using Next.js and Nest.js.",
+                "Developed BRC20-Brise-Token-Swap project using cypress.",
+                "Developed voice call web application through deepgram service using python, Next.js, tailwind css, and turbo.",
+                "Developed FastAPI Langchian serve project."
+            ],
+            "start": "2020.4",
+            "end": "2023.7"
+        },
+        {
+            "company": "TenX",
+            "role": "Full-Stack Developer",
+            "location": "Singapore",
+            "country": "Singapore",
+            "description": [
+                "Developed a frontend for decentralized data storage using Next.js, Tailwind CSS and Turbo.",
+                "Developed a WordPress plugin for wallet integration.",
+                "Developed dashboard template project using tailwind css and next.js framework.",
+                "Developed frontend for betting site using React.",
+                "Developed backend for automatic generation telegram bot using telethon, appium, selenium and Google cloud.",
+                "Developed frontend demo project using react and tailwind css.",
+                "Master web scraping using puppeteer, selenium, beautifulsoup, scrapingbee and zenrows.",
+                "Developed telegram bot as friend in life, including voice feature."
+            ],
+            "start": "2017.8",
+            "end": "2020.4"
+        }
+    ],
+    "education": [
+        {
+            "university": "University of Bologna",
+            "country": "Italy",
+            "degree": "Bachelor of Computer Science (BCompSc)",
+            "field": "Computer science",
+            "start": "2014",
+            "end": "2017"
+        }
+    ],
+    "languages": {
+        "English": "Fluent"
+    },
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Next.js",
+        "HTML5",
+        "Tailwind CSS",
+        "CI/CD",
+        "Web Development",
+        "Python",
+        "Web3",
+        "Django",
+        "Web Scraping",
+        "AI Chatbot"
+    ],
+    "services": [
+        "Web Development",
+        "Mobile Development",
+        "Ecommerce Development",
+        "AI & Machine Learning",
+        "DevOps & Solution Architecture",
+        "Desktop Application Development",
+        "Game Design & Development",
+        "Web & Mobile Design",
+        "Blockchain, NFT & Cryptocurrency",
+        "Other - Software Development"
+    ],
+    "street": "131 Bremner Blvd",
+    "zipcode": "M5J 3A7",
+    "city": "Bologna",
+    "state": "Italy",
+    "location": "Italy",
+    "phone": "6473525252",
+    "avatar": "Edmund.jpg"
+}
